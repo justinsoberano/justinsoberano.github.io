@@ -5,22 +5,19 @@ html, body {
 }
 
 .navigation-bar nav {
-    font-family: Canela, serif;
+    font-family: Arial, serif;
+    font-weight: bold;
     float: right;
-    color: black;
+    color: gray;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 17px;
     padding-left: 50px;
     font-size: 17px;
 }
 
-.navigation-bar nav:hover {
-    text-decoration: underline;
-}
-
 .navigation-bar nav-main {
     background: black;
-    font-family: "Canela", Serif, serif;
+    font-family: "Times New Roman", Serif, serif;
     font-weight: bold;
     font-size: 25px;
     color: white;
